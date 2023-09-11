@@ -17,6 +17,6 @@ variable "app_environment" {
 }
 
 variable "congfig_version" {
-  type = string
+  type = number
   default = 1.0.01
 }
