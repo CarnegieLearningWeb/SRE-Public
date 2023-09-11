@@ -1,0 +1,1 @@
+# In this module, I would have resource definitions for the VPCs which can be used in other modules.
