@@ -9,8 +9,8 @@ publically available template can be used as long as it's modified for this chal
 •	Add two environment variables (you can assume they were already defined for this service) with the values as following:  
 
   Key                        Value        
-o	APP_ENVIRONMENT           dev
-o	CONFIG_VERSION           1.0.01
+	APP_ENVIRONMENT           dev
+  CONFIG_VERSION           1.0.01
 
 •	Your service should be available publicly running on port 443. 
 
