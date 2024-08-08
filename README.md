@@ -1,6 +1,6 @@
 # SRE-Public
 Used for interview/coding challenges
-Assuming an Internet Gateway, VPC, route table, subnet & security group is already available, create the following through any IaC preferably Cloudformation.  An
+Assuming an Internet Gateway, VPC, route table, subnet & security group is already available, create the following through any IaC preferably Cloudformation.  Any
 publically available template can be used as long as it's modified for this challenge. 
 
 
